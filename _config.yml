@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
 title: "Joao Steinstraesser"
+
+navigation:
+  -{file: "index.html", icon: home}
